@@ -1,0 +1,1198 @@
+[
+ {
+  "path": "1. Base Mounts/Clamp Mounts/Fixed C-Clamp Mount/Desk Fixed C-Clamp Collection (40-80mm).3mf",
+  "slug": "desk-fixed-c-clamp-collection-40-80mm",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "C-Clamp Mount - 80mm Opening",
+    "img": "desk-fixed-c-clamp-collection-40-80mm__p1",
+    "parts": {
+     "Fixed C-Clamp Mount - Base 80cm.STL": 1,
+     "Fixed C-Clamp Mount - Round Pad.STL": 1,
+     "Fixed C-Clamp Mount - Screw 60mm.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "C-Clamp Mount - 50mm Opening",
+    "img": "desk-fixed-c-clamp-collection-40-80mm__p2",
+    "parts": {
+     "Fixed C-Clamp Mount - Base 50cm.STL": 1,
+     "Fixed C-Clamp Mount - Round Pad.STL": 1,
+     "Fixed C-Clamp Mount - Screw 60mm.STL": 1
+    }
+   },
+   {
+    "n": 3,
+    "name": "C-Clamp Mount - 40mm Opening",
+    "img": "desk-fixed-c-clamp-collection-40-80mm__p3",
+    "parts": {
+     "Fixed C-Clamp Mount - Base 40cm.STL": 1,
+     "Fixed C-Clamp Mount - Round Pad.STL": 1,
+     "Fixed C-Clamp Mount - Screw 60mm.STL": 1
+    }
+   },
+   {
+    "n": 4,
+    "name": "C-Clamp Mount - 70mm Opening",
+    "img": "desk-fixed-c-clamp-collection-40-80mm__p4",
+    "parts": {
+     "Fixed C-Clamp Mount - Base 70cm.STL": 1,
+     "Fixed C-Clamp Mount - Round Pad.STL": 1,
+     "Fixed C-Clamp Mount - Screw 60mm.STL": 1
+    }
+   },
+   {
+    "n": 5,
+    "name": "C-Clamp Mount - 60mm Opening",
+    "img": "desk-fixed-c-clamp-collection-40-80mm__p5",
+    "parts": {
+     "Fixed C-Clamp Mount - Base 60cm.STL": 1,
+     "Fixed C-Clamp Mount - Round Pad.STL": 1,
+     "Fixed C-Clamp Mount - Screw 60mm.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "1. Base Mounts/Clamp Mounts/Rotating C-Clamp Mount/Rotating C-Clamp Collection (40-80mm).3mf",
+  "slug": "rotating-c-clamp-collection-40-80mm",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Rotating C-Clamp - 40mm Opening",
+    "img": "rotating-c-clamp-collection-40-80mm__p1",
+    "parts": {
+     "Rotating C-Clamp Mount - Base 40mm.STL": 1,
+     "Rotating Mount - Base Link Joint.STL": 1,
+     "Rotating C-Clamp Mount - Screw 60mm.STL": 1,
+     "Rotating Mount - Set Screw.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Rotating C-Clamp - 50mm Opening",
+    "img": "rotating-c-clamp-collection-40-80mm__p2",
+    "parts": {
+     "Rotating C-Clamp Mount - Base 50mm.STL": 1,
+     "Rotating Mount - Base Link Joint.STL": 1,
+     "Rotating C-Clamp Mount - Screw 60mm.STL": 1,
+     "Rotating Mount - Set Screw.STL": 1
+    }
+   },
+   {
+    "n": 3,
+    "name": "Rotating C-Clamp - 60mm Opening",
+    "img": "rotating-c-clamp-collection-40-80mm__p3",
+    "parts": {
+     "Rotating C-Clamp Mount - Base 60mm.STL": 1,
+     "Rotating Mount - Base Link Joint.STL": 1,
+     "Rotating C-Clamp Mount - Screw 60mm.STL": 1,
+     "Rotating Mount - Set Screw.STL": 1
+    }
+   },
+   {
+    "n": 4,
+    "name": "Rotating C-Clamp - 70mm Opening",
+    "img": "rotating-c-clamp-collection-40-80mm__p4",
+    "parts": {
+     "Rotating C-Clamp Mount - Base 70mm.STL": 1,
+     "Rotating Mount - Base Link Joint.STL": 1,
+     "Rotating C-Clamp Mount - Screw 60mm.STL": 1,
+     "Rotating Mount - Set Screw.STL": 1
+    }
+   },
+   {
+    "n": 5,
+    "name": "Rotating C-Clamp - 80mm Opening",
+    "img": "rotating-c-clamp-collection-40-80mm__p5",
+    "parts": {
+     "Rotating C-Clamp Mount - Base 80mm.STL": 1,
+     "Rotating Mount - Base Link Joint.STL": 1,
+     "Rotating C-Clamp Mount - Screw 60mm.STL": 1,
+     "Rotating Mount - Set Screw.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "1. Base Mounts/Desk Mounts/Base Mount - Desk Base Collection.3mf",
+  "slug": "base-mount-desk-base-collection",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Foot Base - 200mmm",
+    "img": "base-mount-desk-base-collection__p1",
+    "parts": {
+     "Foot Base - 200mm.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Foot Base - 220mm",
+    "img": "base-mount-desk-base-collection__p2",
+    "parts": {
+     "Foot Base - 220mm.STL": 1
+    }
+   },
+   {
+    "n": 3,
+    "name": "Foot Base - 240mm",
+    "img": "base-mount-desk-base-collection__p3",
+    "parts": {
+     "Foot Base - 240mm.STL": 1
+    }
+   },
+   {
+    "n": 4,
+    "name": "Round Base - 180mm",
+    "img": "base-mount-desk-base-collection__p4",
+    "parts": {
+     "Round Base - 180mm.STL": 1
+    }
+   },
+   {
+    "n": 5,
+    "name": "Round Base - 200mm",
+    "img": "base-mount-desk-base-collection__p5",
+    "parts": {
+     "Round Base - 200mm.STL": 1
+    }
+   },
+   {
+    "n": 6,
+    "name": "Round Base - 220mm",
+    "img": "base-mount-desk-base-collection__p6",
+    "parts": {
+     "Round Base - 220mm.STL": 1
+    }
+   },
+   {
+    "n": 7,
+    "name": "Round Base - 240mm",
+    "img": "base-mount-desk-base-collection__p7",
+    "parts": {
+     "Round Base - 240mm.STL": 1
+    }
+   },
+   {
+    "n": 8,
+    "name": "Link Joint & Hardware",
+    "img": "base-mount-desk-base-collection__p8",
+    "parts": {
+     "Desk Mount - Base Link Joint.STL": 1,
+     "Desk Mount - Washer.STL": 1,
+     "Desk Mount - Screw.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "1. Base Mounts/Desk Mounts/Fixed Rotating Base/Fixed Rotating Base.3mf",
+  "slug": "fixed-rotating-base",
+  "layer": "0.28",
+  "walls": "2",
+  "infill": "15%",
+  "profile": "0.28mm Extra Draft @BBL X1C",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Fixed Rotating Desk Mount",
+    "img": "fixed-rotating-base__p1",
+    "parts": {
+     "Fixed Rotating Base - Base Link Joint.STL": 1,
+     "Fixed Rotating Base - Base.STL": 1,
+     "Fixed Rotating Base - Set Screw.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Hardware",
+    "img": "fixed-rotating-base__p2",
+    "parts": {
+     "Desk Mount - Washer.STL": 1,
+     "Desk Mount - Screw.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "1. Base Mounts/Rail System Mount/Rail System.3mf",
+  "slug": "rail-system",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Rail 200mm",
+    "img": "rail-system__p1",
+    "parts": {
+     "Rail System - Rail 200mm.STL": 3
+    }
+   },
+   {
+    "n": 2,
+    "name": "Rail Link Joint",
+    "img": "rail-system__p2",
+    "parts": {
+     "Rail System - Base Link Joint.STL": 1
+    }
+   },
+   {
+    "n": 3,
+    "name": "Rail Locking Link Joint",
+    "img": "rail-system__p3",
+    "parts": {
+     "Rail System - Locking Base Link Joint.STL": 1,
+     "Rail System - Locking Base Link Joint - Washer.STL": 1,
+     "Rail System - Locking Base Link Joint - Screw.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "1. Base Mounts/Vehicle Mounts/Cup Holder Mount/Cup Holder Mount.3mf",
+  "slug": "cup-holder-mount",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Cup Holder Mount - 80mm",
+    "img": "cup-holder-mount__p1",
+    "parts": {
+     "Cup Holder Mount - Base 80mm.STL": 1,
+     "Cup Holder Mount - Base Link Joint.STL": 1,
+     "Cup Holder Mount - Screw.STL": 1,
+     "Cup Holder Mount - Washer.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Cup Holder Mount - 85mm",
+    "img": "cup-holder-mount__p2",
+    "parts": {
+     "Cup Holder Mount - Base 85mm.STL": 1,
+     "Cup Holder Mount - Base Link Joint.STL": 1,
+     "Cup Holder Mount - Screw.STL": 1,
+     "Cup Holder Mount - Washer.STL": 1
+    }
+   },
+   {
+    "n": 3,
+    "name": "Cup Holder Mount - 90mm",
+    "img": "cup-holder-mount__p3",
+    "parts": {
+     "Cup Holder Mount - Base 90mm.STL": 1,
+     "Cup Holder Mount - Base Link Joint.STL": 1,
+     "Cup Holder Mount - Screw.STL": 1,
+     "Cup Holder Mount - Washer.STL": 1
+    }
+   },
+   {
+    "n": 4,
+    "name": "Cup Holder Mount - 95mm",
+    "img": "cup-holder-mount__p4",
+    "parts": {
+     "Cup Holder Mount - Base 95mm.STL": 1,
+     "Cup Holder Mount - Base Link Joint.STL": 1,
+     "Cup Holder Mount - Screw.STL": 1,
+     "Cup Holder Mount - Washer.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "1. Base Mounts/Wall Mounts/Fixed Wall Mount/Fixed Wall Mount.3mf",
+  "slug": "fixed-wall-mount",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Wall Mount - Hole Pattern Template",
+    "img": "fixed-wall-mount__p1",
+    "parts": {
+     "Wall Mount - Hole Pattern Template.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Wall Mount Assembly",
+    "img": "fixed-wall-mount__p2",
+    "parts": {
+     "Wall Mount - Base Link Joint.STL": 1,
+     "Wall Mount - Fixed Base.STL": 1,
+     "Wall Mount - Washer.STL": 1,
+     "Wall Mount - Screw.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "1. Base Mounts/Weighted Bases/Weighted Base.3mf",
+  "slug": "weighted-base",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Weighted Base - 125mm",
+    "img": "weighted-base__p1",
+    "parts": {
+     "Weighted Base - Small - 125mm.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Weighted Base - 175mm",
+    "img": "weighted-base__p2",
+    "parts": {
+     "Weighted Base - Medium - 175mm.STL": 1
+    }
+   },
+   {
+    "n": 3,
+    "name": "Weighted Base - 225mm",
+    "img": "weighted-base__p3",
+    "parts": {
+     "Weighted Base - Large - 225mm.STL": 1
+    }
+   },
+   {
+    "n": 4,
+    "name": "Weighted Base - Link Joint & Hardware",
+    "img": "weighted-base__p4",
+    "parts": {
+     "Weighted Base - Base Link Joint.STL": 1,
+     "Weighted Base - Screw.STL": 1,
+     "Weighted Base - Washer.STL": 1,
+     "Weighted Base - Plug.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "2. Links/1. Locking Links/1. Modular Link/Modular Link.3mf",
+  "slug": "modular-link",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Modular Link - Joint Components",
+    "img": "modular-link__p1",
+    "parts": {
+     "Modular Link - Teethed Joint - 2.STL": 1,
+     "Modular Link - Teethed Joint - 1.STL": 1,
+     "Modular Link - Locking Brace.STL": 2,
+     "Modular Link - Screw Washer.STL": 1,
+     "Modular Link - Nut Washer.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Modular Link Extensions - 60-140mm",
+    "img": "modular-link__p2",
+    "parts": {
+     "Modular Link - Link Body - 140mm.STL": 1,
+     "Modular Link - Link Body - 120mm.STL": 1,
+     "Modular Link - Link Body - 100mm.STL": 1,
+     "Modular Link - Link Body - 80mm.STL": 1,
+     "Modular Link - Link Body - 60mm.STL": 1
+    }
+   },
+   {
+    "n": 3,
+    "name": "Modular Link Extensions - 160-240mm",
+    "img": "modular-link__p3",
+    "parts": {
+     "Modular Link - Link Body - 240mm.STL": 1,
+     "Modular Link - Link Body - 220mm.STL": 1,
+     "Modular Link - Link Body - 200mm.STL": 1,
+     "Modular Link - Link Body - 180mm.STL": 1,
+     "Modular Link - Link Body - 160mm.STL": 1
+    }
+   },
+   {
+    "n": 4,
+    "name": "Modular Link Extension - 260mm",
+    "img": "modular-link__p4",
+    "parts": {
+     "Modular Link - Link Body - 260mm.STL": 1
+    }
+   },
+   {
+    "n": 5,
+    "name": "Modular Link Extension - 280mm",
+    "img": "modular-link__p5",
+    "parts": {
+     "Modular Link - Link Body - 280mm.STL": 1
+    }
+   },
+   {
+    "n": 6,
+    "name": "Modular Link Extension - 300mm",
+    "img": "modular-link__p6",
+    "parts": {
+     "Modular Link - Link Body - 300mm.STL": 1
+    }
+   },
+   {
+    "n": 7,
+    "name": "Modular Link - Hardware",
+    "img": "modular-link__p7",
+    "parts": {
+     "Link Hardware - Threaded Nut.STL": 2,
+     "Link Hardware - Washer.STL": 2,
+     "Link Hardware - Screw.STL": 2
+    }
+   }
+  ]
+ },
+ {
+  "path": "2. Links/1. Locking Links/2. Standard Links/Standard Links Collection.3mf",
+  "slug": "standard-links-collection",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Hardware",
+    "img": "standard-links-collection__p1",
+    "parts": {
+     "Link Hardware - Threaded Nut.STL": 2,
+     "Link Hardware - Washer.STL": 2,
+     "Link Hardware - Screw.STL": 2
+    }
+   },
+   {
+    "n": 2,
+    "name": "LINK - 125mm",
+    "img": "standard-links-collection__p2",
+    "parts": {
+     "LINK - 125mm.STL": 1
+    }
+   },
+   {
+    "n": 3,
+    "name": "LINK - 150mm",
+    "img": "standard-links-collection__p3",
+    "parts": {
+     "LINK - 150mm.STL": 1
+    }
+   },
+   {
+    "n": 4,
+    "name": "LINK - 175mm",
+    "img": "standard-links-collection__p4",
+    "parts": {
+     "LINK - 175mm.STL": 1
+    }
+   },
+   {
+    "n": 5,
+    "name": "LINK - 200mm",
+    "img": "standard-links-collection__p5",
+    "parts": {
+     "LINK - 200mm.STL": 1
+    }
+   },
+   {
+    "n": 6,
+    "name": "LINK - 225mm",
+    "img": "standard-links-collection__p6",
+    "parts": {
+     "LINK - 225mm.STL": 1
+    }
+   },
+   {
+    "n": 7,
+    "name": "LINK - 250mm",
+    "img": "standard-links-collection__p7",
+    "parts": {
+     "LINK - 250mm.STL": 1
+    }
+   },
+   {
+    "n": 8,
+    "name": "LINK - 275mm",
+    "img": "standard-links-collection__p8",
+    "parts": {
+     "LINK - 275mm.STL": 1
+    }
+   },
+   {
+    "n": 9,
+    "name": "Payload Link - 1 Circle",
+    "img": "standard-links-collection__p9",
+    "parts": {
+     "PAYLOAD LINK - 100mm - 1.STL": 1,
+     "PAYLOAD LINK - 75mm - 1.STL": 1,
+     "PAYLOAD LINK - 50mm - 1.STL": 1
+    }
+   },
+   {
+    "n": 10,
+    "name": "Payload Link - 2 Circles",
+    "img": "standard-links-collection__p10",
+    "parts": {
+     "PAYLOAD LINK - 100mm - 2.STL": 1,
+     "PAYLOAD LINK - 75mm - 2.STL": 1,
+     "PAYLOAD LINK - 50mm - 2.STL": 1
+    }
+   },
+   {
+    "n": 11,
+    "name": "Payload Link - Swivel - 1 Circle",
+    "img": "standard-links-collection__p11",
+    "parts": {
+     "Payload Link - Swivel Body - 1.STL": 1,
+     "Payload Link - Swivel Insert.STL": 1
+    }
+   },
+   {
+    "n": 12,
+    "name": "Payload Link - Swivel - 2 Circles",
+    "img": "standard-links-collection__p12",
+    "parts": {
+     "Payload Link - Swivel Body - 2.STL": 1,
+     "Payload Link - Swivel Insert.STL": 1
+    }
+   },
+   {
+    "n": 13,
+    "name": "Payload Link - Swivel - Hardware",
+    "img": "standard-links-collection__p13",
+    "parts": {
+     "Payload Link - Swivel - Screw.STL": 1,
+     "Payload Link - Swivel - Washer.STL": 1,
+     "Payload Link - Swivel - Nut.STL": 1
+    }
+   },
+   {
+    "n": 14,
+    "name": "4-Way Branch Link",
+    "img": "standard-links-collection__p14",
+    "parts": {
+     "4-Way Branch Link.STL": 1
+    }
+   },
+   {
+    "n": 15,
+    "name": "3-Way Branch Link - Top",
+    "img": "standard-links-collection__p15",
+    "parts": {
+     "3-Way Branch Link - Top.STL": 1
+    }
+   },
+   {
+    "n": 16,
+    "name": "3-Way Branch Link - Bottom",
+    "img": "standard-links-collection__p16",
+    "parts": {
+     "3-Way Branch Link - Bottom.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "2. Links/1. Locking Links/3. Payload Links/Ball Joint Link/Ball Joint Link.3mf",
+  "slug": "ball-joint-link",
+  "layer": "0.2",
+  "walls": "2",
+  "infill": "15%",
+  "profile": "0.20mm Standard @BBL X1C",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Clamps",
+    "img": "ball-joint-link__p1",
+    "parts": {
+     "Ball Joint Link - Clamp Bottom.STL": 1,
+     "Ball Joint Link - Clamp Top.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Hardware",
+    "img": "ball-joint-link__p2",
+    "parts": {
+     "Ball Joint Link - Nut.STL": 1,
+     "Ball Joint Link - Set Screw.STL": 1,
+     "Ball Joint Link - Washer.STL": 1,
+     "Ball Joint Link - Payload Ball Mount P1.STL": 1,
+     "Ball Joint Link - Payload Ball Mount P2.STL": 1,
+     "Ball Joint Link - Link Ball Mount P2.STL": 1,
+     "Ball Joint Link - Link Ball Mount P1.STL": 1,
+     "Ball Joint Link - Ball Mount Wedge.STL": 4
+    }
+   }
+  ]
+ },
+ {
+  "path": "2. Links/1. Locking Links/5. Cable Management/CABLE MANAGEMENT CLIPS.3mf",
+  "slug": "cable-management-clips",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Cable Management Clip - 15mm",
+    "img": "cable-management-clips__p1",
+    "parts": {
+     "Cable Management Clip - 15mm.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Cable Management Clip - 16mm",
+    "img": "cable-management-clips__p2",
+    "parts": {
+     "Cable Management Clip - 16mm.STL": 1
+    }
+   },
+   {
+    "n": 3,
+    "name": "Cable Management Clip - 17mm",
+    "img": "cable-management-clips__p3",
+    "parts": {
+     "Cable Management Clip - 17mm.STL": 1
+    }
+   },
+   {
+    "n": 4,
+    "name": "Cable Management Clip - 18mm",
+    "img": "cable-management-clips__p4",
+    "parts": {
+     "Cable Management Clip - 18mm.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "3. Payload Mounts/1-4 20 Mount/1-4 20 Mount.3mf",
+  "slug": "1-4-20-mount",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [
+   "1-4 20 Mount - Base.STL"
+  ],
+  "plates": [
+   {
+    "n": 1,
+    "name": "1-4 20 Mount",
+    "img": "1-4-20-mount__p1",
+    "parts": {
+     "1-4 20 Mount - Base.STL": 1,
+     "1-4 20 Mount - Screw Holder P2.STL": 1,
+     "1-4 20 Mount - Screw Holder P1.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "3. Payload Mounts/Baby Pin Mount/Baby Pin Mount.3mf",
+  "slug": "baby-pin-mount",
+  "layer": "0.2",
+  "walls": "2",
+  "infill": "15%",
+  "profile": "0.20mm Standard @BBL X1C",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Baby Pin Mount - Small",
+    "img": "baby-pin-mount__p1",
+    "parts": {
+     "Baby Pin Mount - Base.STL": 1,
+     "Baby Pin Mount - Screw P2 - Short.STL": 1,
+     "Baby Pin Mount - Screw P1 - Short.STL": 1,
+     "Baby Pin Mount - Screw Wedge.STL": 2
+    }
+   },
+   {
+    "n": 2,
+    "name": "Baby Pin Mount - Medium",
+    "img": "baby-pin-mount__p2",
+    "parts": {
+     "Baby Pin Mount - Screw P2 - Standard.STL": 1,
+     "Baby Pin Mount - Screw P1 - Standard.STL": 1,
+     "Baby Pin Mount - Screw Wedge.STL": 2,
+     "Baby Pin Mount - Base.STL": 1
+    }
+   },
+   {
+    "n": 3,
+    "name": "Baby Pin Mount - Large",
+    "img": "baby-pin-mount__p3",
+    "parts": {
+     "Baby Pin Mount - Screw P2 - Long.STL": 1,
+     "Baby Pin Mount - Screw P1 - Long.STL": 1,
+     "Baby Pin Mount - Base.STL": 1,
+     "Baby Pin Mount - Screw Wedge.STL": 2
+    }
+   }
+  ]
+ },
+ {
+  "path": "3. Payload Mounts/Laptop Mount/Laptop Mount.3mf",
+  "slug": "laptop-mount",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [
+   "Laptop Mount.STL"
+  ],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Laptop Mount",
+    "img": "laptop-mount__p1",
+    "parts": {
+     "Laptop Mount.STL": 1,
+     "Laptop Mount - Washer.STL": 1,
+     "Laptop Mount - Screw.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "3. Payload Mounts/Magsafe Mounts/magSafe Mounts.3mf",
+  "slug": "magsafe-mounts",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [
+   "magSafe Mount - New.STL",
+   "magSafe Mount - Old.STL"
+  ],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Magsafe Mount - New",
+    "img": "magsafe-mounts__p1",
+    "parts": {
+     "magSafe Mount - New.STL": 1,
+     "Magsafe Mount - Washer.STL": 1,
+     "Magsafe Mount - Screw.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Magsafe Mount - Old",
+    "img": "magsafe-mounts__p2",
+    "parts": {
+     "magSafe Mount - Old.STL": 1,
+     "Magsafe Mount - Washer.STL": 1,
+     "Magsafe Mount - Screw.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "3. Payload Mounts/Microphone Mount/Microphone Mount.3mf",
+  "slug": "microphone-mount",
+  "layer": "0.2",
+  "walls": "2",
+  "infill": "15%",
+  "profile": "0.20mm Standard @BBL A1",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Microphone Mount",
+    "img": "microphone-mount__p1",
+    "parts": {
+     "Microphone Mount Screw - Long.STL": 1,
+     "Microphone Mount Base - 1 Dots.STL": 1,
+     "Microphone Mount Base - 2 Dots.STL": 1,
+     "Microphone Mount Screw - Short.STL": 1,
+     "Microphone Mount Screw - Standard.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Microphone Mount Hardware",
+    "img": "microphone-mount__p2",
+    "parts": {
+     "Microphone Mount - Link Washer.STL": 1,
+     "Microphone Mount - Link Screw.STL": 1,
+     "Microphone Mount - Link Nut.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "3. Payload Mounts/Modular Tensioned Claw/Modular T-Claw.3mf",
+  "slug": "modular-t-claw",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [
+   "Modular T-Claw - Base.STL"
+  ],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Modular T-Claw",
+    "img": "modular-t-claw__p1",
+    "parts": {
+     "Modular T-Claw - Arm Join - Left.STL": 1,
+     "Modular T-Claw - Arm Join - Right.STL": 1,
+     "Modular T-Claw - Base.STL": 1,
+     "Modular T-Claw - Cover.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "60mm Claws",
+    "img": "modular-t-claw__p2",
+    "parts": {
+     "Modular T-Claw - Arm 60mm - Right.STL": 1,
+     "Modular T-Claw - Arm 60mm - Left.STL": 1
+    }
+   },
+   {
+    "n": 3,
+    "name": "70mm Claws",
+    "img": "modular-t-claw__p3",
+    "parts": {
+     "Modular T-Claw - Arm 70mm - Left.STL": 1,
+     "Modular T-Claw - Arm 70mm - Right.STL": 1
+    }
+   },
+   {
+    "n": 4,
+    "name": "80mm Claws",
+    "img": "modular-t-claw__p4",
+    "parts": {
+     "Modular T-Claw - Arm 80mm - Left.STL": 1,
+     "Modular T-Claw - Arm 80mm - Right.STL": 1
+    }
+   },
+   {
+    "n": 5,
+    "name": "T-Claw Hardware",
+    "img": "modular-t-claw__p5",
+    "parts": {
+     "Modular T-Claw - Arm Joint - Screw.STL": 2,
+     "Modular T-Claw - Arm Joint - Washer.STL": 2,
+     "Modular T-Claw - Arm Joint - Nut.STL": 2
+    }
+   },
+   {
+    "n": 6,
+    "name": "Payload Connecting Hardware",
+    "img": "modular-t-claw__p6",
+    "parts": {
+     "Modular T-Claw - Payload Mount - Washer.STL": 1,
+     "Modular T-Claw - Payload Mount - Screw.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "3. Payload Mounts/Phone Mount/Phone Mount.3mf",
+  "slug": "phone-mount",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Phone Holder - Small",
+    "img": "phone-mount__p1",
+    "parts": {
+     "Phone Mount - Base - Small.STL": 1,
+     "Phone Mount - Arm -Small - Hotshoe.STL": 2,
+     "Phone Mount - Arm -Small - Heat Insert.STL": 2,
+     "Phone Mount - Cover.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Payload Connecting Hardware",
+    "img": "phone-mount__p2",
+    "parts": {
+     "Phone Mount - Payload Mount - Washer.STL": 1,
+     "Phone Mount - Payload Mount - Screw.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "3. Payload Mounts/Spring Clamp/Spring Clamp.3mf",
+  "slug": "spring-clamp",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": true,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Spring Clamp",
+    "img": "spring-clamp__p1",
+    "parts": {
+     "Spring Clamp - Body.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Hardware",
+    "img": "spring-clamp__p2",
+    "parts": {
+     "Spring Clamp - Washer.STL": 1,
+     "Spring Clamp - Screw.STL": 1
+    }
+   },
+   {
+    "n": 3,
+    "name": "Spring Clamp Inserts - TPU",
+    "img": "spring-clamp__p3",
+    "parts": {
+     "Spring Clamp - Insert.STL": 2
+    }
+   }
+  ]
+ },
+ {
+  "path": "3. Payload Mounts/Tensioned Clamps/Large Tensioned Clamp/L Tensioned Clamp.3mf",
+  "slug": "l-tensioned-clamp",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "L Tensioned Clamp",
+    "img": "l-tensioned-clamp__p1",
+    "parts": {
+     "L Tensioned Clamp - Arm.STL": 2,
+     "L Tensioned Clamp - Base.STL": 1,
+     "L Tensioned Clamp - Cover.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Hardware",
+    "img": "l-tensioned-clamp__p2",
+    "parts": {
+     "L Tensioned Clamp - Washer.STL": 1,
+     "L Tensioned Clamp - Screw.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "3. Payload Mounts/Tensioned Clamps/Medium Tensioned Clamp/M Tensioned Clamp.3mf",
+  "slug": "m-tensioned-clamp",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [
+   "M Tensioned Clamp - Base.STL"
+  ],
+  "plates": [
+   {
+    "n": 1,
+    "name": "M Tensioned Clamp",
+    "img": "m-tensioned-clamp__p1",
+    "parts": {
+     "M Tensioned Clamp - Arm.STL": 2,
+     "M Tensioned Clamp - Base.STL": 1,
+     "M Tensioned Clamp - Cover.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Hardware",
+    "img": "m-tensioned-clamp__p2",
+    "parts": {
+     "M Tensioned Clamp - Washer.STL": 1,
+     "M Tensioned Clamp - Screw.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "3. Payload Mounts/Tensioned Clamps/Small Tensioned Clamp/S Tensioned Clamp.3mf",
+  "slug": "s-tensioned-clamp",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [
+   "S Tensioned Clamp - Base.STL"
+  ],
+  "plates": [
+   {
+    "n": 1,
+    "name": "S Tensioned Clamp",
+    "img": "s-tensioned-clamp__p1",
+    "parts": {
+     "S Tensioned Clamp - Arm.STL": 2,
+     "S Tensioned Clamp - Base.STL": 1,
+     "S Tensioned Clamp - Cover.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Hardware",
+    "img": "s-tensioned-clamp__p2",
+    "parts": {
+     "S Tensioned Clamp - Washer.STL": 1,
+     "S Tensioned Clamp - Screw.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "3. Payload Mounts/Tensioned Laptop Mount/Tensioned Laptop Mount.3mf",
+  "slug": "tensioned-laptop-mount",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": true,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "Tensioned Laptop Holder - Base",
+    "img": "tensioned-laptop-mount__p1",
+    "parts": {
+     "Tensioned Laptop Mount - Base.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "Tensioned Laptop Holder - Cover & Arms",
+    "img": "tensioned-laptop-mount__p2",
+    "parts": {
+     "Tensioned Laptop Mount - Arm - Heat Insert.STL": 2,
+     "Tensioned Laptop Mount - Cover.STL": 1
+    }
+   },
+   {
+    "n": 3,
+    "name": "Payload Connecting Hardware",
+    "img": "tensioned-laptop-mount__p3",
+    "parts": {
+     "Payload Mount - Washer.STL": 1,
+     "Payload Mount - Screw.STL": 1
+    }
+   }
+  ]
+ },
+ {
+  "path": "3. Payload Mounts/VESA Mounts/Vesa Mounts.3mf",
+  "slug": "vesa-mounts",
+  "layer": "0.28",
+  "walls": "3",
+  "infill": "20%",
+  "profile": "0.28mm Link-A-Link Settings",
+  "supports_global": false,
+  "supports_parts": [],
+  "plates": [
+   {
+    "n": 1,
+    "name": "VESA Mount - 75mm",
+    "img": "vesa-mounts__p1",
+    "parts": {
+     "Vesa Mount - 75mm.STL": 1
+    }
+   },
+   {
+    "n": 2,
+    "name": "VESA Mount - 100mm",
+    "img": "vesa-mounts__p2",
+    "parts": {
+     "Vesa Mount - 100mm.STL": 1
+    }
+   },
+   {
+    "n": 3,
+    "name": "Payload Connecting Hardware",
+    "img": "vesa-mounts__p3",
+    "parts": {
+     "Vesa Mount - Washer.STL": 1,
+     "Vesa Mount - Screw.STL": 1
+    }
+   }
+  ]
+ }
+]

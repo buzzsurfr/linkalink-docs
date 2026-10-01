@@ -1,0 +1,30 @@
+<svg class="bp" viewBox="-60 -40 760 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rail profile">
+<defs><marker id="ar2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" class="arrow"/></marker>
+<pattern id="grid3" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M 20 0 L 0 0 0 20" class="gridln"/></pattern></defs>
+<rect x="-60" y="-40" width="760" height="330" fill="url(#grid3)" class="bpbg"/>
+<!-- surface -->
+<rect x="-30" y="190" width="330" height="18" class="surface"/>
+<text x="135" y="232" class="lbl small" text-anchor="middle">desk / bench / shelf (installed orientation)</text>
+<!-- rail, installed flange-up, scale 10 px/mm; origin at left of flange; stem bottom on surface at y=190 -->
+<!-- flange: 254 wide x 50.8 tall, top at y=190-114.3=75.7 ; stem 152.4 wide x 63.5 tall -->
+<path d="M 0 94.7 L 19 75.7 L 235 75.7 L 254 94.7 L 254 126.5 L 203.2 126.5 L 203.2 190 L 50.8 190 L 50.8 126.5 L 0 126.5 Z" class="lnk-fill" opacity=".85"/>
+<!-- counterbore -->
+<rect x="76" y="75.7" width="101.6" height="50" class="bpbg-fill" opacity=".9"/>
+<rect x="104.5" y="125.7" width="45" height="64.3" class="bpbg-fill" opacity=".9"/>
+<text x="127" y="105" class="lbl small" text-anchor="middle">Ø10.16 c'bore</text>
+<text x="127" y="165" class="lbl small" text-anchor="middle">Ø4.5</text>
+<!-- dims -->
+<line x1="0" y1="45" x2="254" y2="45" class="dim" marker-start="url(#ar2)" marker-end="url(#ar2)"/><text x="127" y="37" class="lbl" text-anchor="middle">25.40 mm (1.000″) flange</text>
+<line x1="50.8" y1="258" x2="203.2" y2="258" class="dim" marker-start="url(#ar2)" marker-end="url(#ar2)"/><text x="127" y="280" class="lbl" text-anchor="middle">15.24 mm (0.600″) stem</text>
+<line x1="275" y1="75.7" x2="275" y2="126.5" class="dim" marker-start="url(#ar2)" marker-end="url(#ar2)"/><text x="283" y="106" class="lbl">5.08 (0.200″)</text>
+<line x1="275" y1="126.5" x2="275" y2="190" class="dim" marker-start="url(#ar2)" marker-end="url(#ar2)"/><text x="283" y="163" class="lbl">6.35 (0.250″) gap</text>
+<line x1="-22" y1="75.7" x2="-22" y2="190" class="dim" marker-start="url(#ar2)" marker-end="url(#ar2)"/><text x="-30" y="140" class="lbl small" text-anchor="end">11.43</text>
+<!-- carriage jaw (right side) -->
+<g transform="translate(430,0)">
+<text x="130" y="30" class="lbl strong" text-anchor="middle">Carriage slot (Rail Base Link Joint)</text>
+<path d="M 0 60 L 260 60 L 260 176 L 207 176 L 207 125 L 256 125 L 256 72 L 4 72 L 4 125 L 47 125 L 47 176 L 0 176 Z" class="base" opacity=".75"/>
+<text x="130" y="103" class="lbl small" text-anchor="middle">cavity 25.66 × ≈5.3 (flange)</text>
+<line x1="47" y1="200" x2="207" y2="200" class="dim" marker-start="url(#ar2)" marker-end="url(#ar2)"/><text x="127" y="222" class="lbl small" text-anchor="middle">opening 15.50 (stem)</text>
+<text x="23" y="160" class="lbl small" text-anchor="middle">lip</text><text x="233" y="160" class="lbl small" text-anchor="middle">≈5.1</text>
+</g>
+</svg>
